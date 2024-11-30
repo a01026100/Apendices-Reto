@@ -1,0 +1,11 @@
+,,,,,
+,IDMaquina,IDProducto,Rate,,
+Etapa 1,0,0,19,,Ejemplo
+,1,,,,Esta tabla seria los tiempos de producción por maquina 
+,2,,,,Rates en u/hora
+Hornos,3,,,,
+,4,,,,
+Etapa 3,5,,,,
+,6,,,,
+,7,,,,
+,int,Int,Int,Tipo de Dato,
